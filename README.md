@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhumithaanand" alt="madhumithaanand" /></a> </p>
 
-- 🌱 I’m currently learning **CSS,JS**
+- 🌱 I’m currently learning **Flutter**
+
+- 📫 How to reach me **madhuanand299@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhumithaanand&show_icons=true&locale=en" alt="madhumithaanand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhumithaanand&" alt="madhumithaanand" /></p>
+
